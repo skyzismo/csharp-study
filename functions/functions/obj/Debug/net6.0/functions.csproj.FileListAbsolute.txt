@@ -1,0 +1,15 @@
+C:\projetos\csharp\functions\functions\bin\Debug\net6.0\functions.exe
+C:\projetos\csharp\functions\functions\bin\Debug\net6.0\functions.deps.json
+C:\projetos\csharp\functions\functions\bin\Debug\net6.0\functions.runtimeconfig.json
+C:\projetos\csharp\functions\functions\bin\Debug\net6.0\functions.dll
+C:\projetos\csharp\functions\functions\bin\Debug\net6.0\functions.pdb
+C:\projetos\csharp\functions\functions\obj\Debug\net6.0\functions.csproj.AssemblyReference.cache
+C:\projetos\csharp\functions\functions\obj\Debug\net6.0\functions.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\csharp\functions\functions\obj\Debug\net6.0\functions.AssemblyInfoInputs.cache
+C:\projetos\csharp\functions\functions\obj\Debug\net6.0\functions.AssemblyInfo.cs
+C:\projetos\csharp\functions\functions\obj\Debug\net6.0\functions.csproj.CoreCompileInputs.cache
+C:\projetos\csharp\functions\functions\obj\Debug\net6.0\functions.dll
+C:\projetos\csharp\functions\functions\obj\Debug\net6.0\refint\functions.dll
+C:\projetos\csharp\functions\functions\obj\Debug\net6.0\functions.pdb
+C:\projetos\csharp\functions\functions\obj\Debug\net6.0\functions.genruntimeconfig.cache
+C:\projetos\csharp\functions\functions\obj\Debug\net6.0\ref\functions.dll
