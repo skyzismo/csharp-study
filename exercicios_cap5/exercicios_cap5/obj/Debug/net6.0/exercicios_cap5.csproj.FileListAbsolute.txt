@@ -1,0 +1,15 @@
+C:\projetos\csharp\exercicios_cap5\exercicios_cap5\bin\Debug\net6.0\exercicios_cap5.exe
+C:\projetos\csharp\exercicios_cap5\exercicios_cap5\bin\Debug\net6.0\exercicios_cap5.deps.json
+C:\projetos\csharp\exercicios_cap5\exercicios_cap5\bin\Debug\net6.0\exercicios_cap5.runtimeconfig.json
+C:\projetos\csharp\exercicios_cap5\exercicios_cap5\bin\Debug\net6.0\exercicios_cap5.dll
+C:\projetos\csharp\exercicios_cap5\exercicios_cap5\bin\Debug\net6.0\exercicios_cap5.pdb
+C:\projetos\csharp\exercicios_cap5\exercicios_cap5\obj\Debug\net6.0\exercicios_cap5.csproj.AssemblyReference.cache
+C:\projetos\csharp\exercicios_cap5\exercicios_cap5\obj\Debug\net6.0\exercicios_cap5.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\csharp\exercicios_cap5\exercicios_cap5\obj\Debug\net6.0\exercicios_cap5.AssemblyInfoInputs.cache
+C:\projetos\csharp\exercicios_cap5\exercicios_cap5\obj\Debug\net6.0\exercicios_cap5.AssemblyInfo.cs
+C:\projetos\csharp\exercicios_cap5\exercicios_cap5\obj\Debug\net6.0\exercicios_cap5.csproj.CoreCompileInputs.cache
+C:\projetos\csharp\exercicios_cap5\exercicios_cap5\obj\Debug\net6.0\exercicios_cap5.dll
+C:\projetos\csharp\exercicios_cap5\exercicios_cap5\obj\Debug\net6.0\refint\exercicios_cap5.dll
+C:\projetos\csharp\exercicios_cap5\exercicios_cap5\obj\Debug\net6.0\exercicios_cap5.pdb
+C:\projetos\csharp\exercicios_cap5\exercicios_cap5\obj\Debug\net6.0\exercicios_cap5.genruntimeconfig.cache
+C:\projetos\csharp\exercicios_cap5\exercicios_cap5\obj\Debug\net6.0\ref\exercicios_cap5.dll
